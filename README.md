@@ -1,4 +1,4 @@
-Certainly! Here's the documentation on how to run your app:
+# How To Run This Application
 
 ### Running the Server:
 1. Open your command prompt.
